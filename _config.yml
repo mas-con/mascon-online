@@ -1,28 +1,70 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
-logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
-about: Freelance developer
+# Welcome to Jekyll!
 
-baseurl: ""
-url: ""
+# Website settings
+title: +Con light
+description: +Con light
+keywords: +Con,Mascon,conference,light,workshops
+baseurl:  /argentina2018-light # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+url: https://mas-con.github.io/  # url should be 'http://<github_username>.github.io/homepage' as before
+# url: http://127.0.0.1:4000
+img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
-allowsearch: true
+# author -- index page "about me" section
+author:  # change following line to your infomation.
+  name: Mascon  # Be used at blog posts' author.
+  first_name: Mascon  # Be used at index page about me section.
+  last_name: Light  # Be used at index page about me section.
+  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  github_username: mas-con  # Leave blank if you don't have now
+  # linkedin_id: jarrekk # Leave blank if you don't have now
+  facebook_username: masconmdz  # Leave blank if you don't have now
+  twitter_username: mascon_mdz  # Leave blank if you don't have now
+  email: masconmdz@gmail.com  # Leave blank if you don't have now
+  # cv: http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
+  # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
+  skill_icon1:
+    - name: 
+    - name: 
+  skill_icon2:
+    - name: 
+    - name: 
+  desc: +Con light es un dia de talleres.  # Describe yourself.
 
-disqus_shortname: aboutashu
-google_analytics: UA-72862926-1
+# comment
+disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
+  name: jalpc
 
-share:
-  twitter_username: \#
-  fb_appid: 000000000000
+# analytics
+## google analytics
+ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
+  # id:
 
+## google optimize
+go:
+  # id:
 
-enableTags: true
-tagarray: []
+## growingIO
+gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
+  # id:
 
-paginate: 20
-per_page: 20
-paginate_path: "/page:num/"
+## donation
+donation: on  # type 'on'/'off' to choice display donation button at post page or not
+
+## carousels
+index_carousel: on  # index page carousel switch
+blog_carousel: on  # blog page carousel switch
+
+# scss
+sass:
+  style: compressed
+
+# Build settings
+encoding: utf-8
+
+# other settings
+highlighter: green
 markdown: kramdown
-gems: [jekyll-paginate, jekyll-gist]
+kramdown:
+  input: GFM
+  syntax_highlighter: green
+

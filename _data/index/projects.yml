@@ -1,0 +1,11 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Sea nuestro patrocinador
+  img: /static/assets/img/landing/avatar.png
+  desc: masconmdz@gmail.com
+
+
+# - name: Google
+#   url: https://google.com
+#   img: /static/assets/img/landing/google.png

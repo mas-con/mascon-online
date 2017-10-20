@@ -1,0 +1,28 @@
+
+- name:
+    detail: Call4papers 
+    i18n: company_a
+  desc:
+    detail: +Con light -  Solo talleres
+    i18n: company_a_desc
+  date:
+    detail: hasta 02/2018
+    i18n: 
+  job:
+    detail: <a href="http://bit.ly/c4p-taller"> >>> LINK C4P <<< </a>
+    i18n: 
+  icon: fa-plus-square
+
+- name:
+    detail: Mendoza
+    i18n: Mendoza
+  desc:
+    detail: local - en breve 
+    i18n: 
+  date:
+    detail: Marzo 2018
+    i18n: company_b_date
+  job:
+    detail: 
+    i18n: company_b_job
+  icon: fa-plus-square
