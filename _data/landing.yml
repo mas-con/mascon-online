@@ -8,7 +8,7 @@
 
 - id: career
   i18n: nav.career
-  name: Call4pappers
+  name: Call4papers
   tpl: career.html
   css: timeline
 
