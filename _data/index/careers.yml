@@ -6,7 +6,7 @@
     detail: +Con light -  Solo talleres
     i18n: company_a_desc
   date:
-    detail: hasta 02/2018
+    detail: 20/02 - 20/03
     i18n: 
   job:
     detail: <a href="http://call4paperz.com/events/con-light-mendoza"> >>> LINK C4P <<< </a>
@@ -17,12 +17,12 @@
     detail: Mendoza
     i18n: Mendoza
   desc:
-    detail: local - en breve 
+    detail: Universidad Mendoza
     i18n: 
   date:
-    detail: Marzo 2018
-    i18n: company_b_date
+    detail: 28 Abril 2018
+    i18n: 
   job:
     detail: 
-    i18n: company_b_job
+    i18n: 
   icon: fa-plus-square
