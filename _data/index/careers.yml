@@ -14,27 +14,13 @@
   icon: fa-plus-square
 
 - name:
-    detail: Mendoza
-    i18n: Mendoza
-  desc:
-    detail: Universidad Mendoza
-    i18n: 
-  date:
-    detail: 28 Abril 2018
-    i18n: 
-  job:
-    detail: 
-    i18n: 
-  icon: fa-plus-square
-
-- name:
   detail: Inscripciones 
   i18n: company_a
 desc:
   detail: +Con light -  Inscripciones
   i18n: company_a_desc
 date:
-  detail: 20/02 - 20/03
+  detail: 20/02 - 15/04
   i18n: 
 job:
   detail: <a href="https://www.eventbrite.com.ar/e/con-light-tickets-39291225112"> >>> INSCRIPCIONES <<< </a>
