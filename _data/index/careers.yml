@@ -1,17 +1,4 @@
 
-- name:
-    detail: Call4papers 
-    i18n: company_a
-  desc:
-    detail: +Con light -  Solo talleres 1h o 2 h
-    i18n: company_a_desc
-  date:
-    detail: 20/02 - 20/03
-    i18n: 
-  job:
-    detail: <a href="http://call4paperz.com/events/con-light-mendoza"> >>> LINK C4P <<< </a>
-    i18n: 
-  icon: fa-plus-square
 
 - name:
     detail: Inscripciones 
@@ -24,5 +11,19 @@
     i18n: 
   job:
     detail: <a href="https://www.eventbrite.com.ar/e/con-light-tickets-39291225112"> >>> INSCRIPCIONES <<< </a>
+    i18n: 
+  icon: fa-plus-square
+
+- name:
+    detail: ENTRADA
+    i18n: company_a
+  desc:
+    detail: 1kg alimento no perecedero o 1.5lts agua o 1 paquete pañales
+    i18n: company_a_desc
+  date:
+    detail: 
+    i18n: 
+  job:
+    detail: 
     i18n: 
   icon: fa-plus-square

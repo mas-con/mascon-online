@@ -8,15 +8,15 @@
 
 - id: career
   i18n: nav.career
-  name: Call4papers
+  name: Info
   tpl: career.html
   css: timeline
 
-# - id: skills
-#   i18n: nav.skills
-#   name: Agenda
-#   tpl: skills.html
-#   css: team
+- id: skills
+  i18n: nav.skills
+  name: Agenda
+  tpl: skills.html
+  css: team
 
 - id: projects
   i18n: nav.projects
