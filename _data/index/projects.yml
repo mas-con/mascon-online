@@ -15,3 +15,7 @@
 - name: Mercado Libre
   url: https://www.mercadolibre.com.ar/
   img: /static/assets/img/landing/mercadolibre.png
+
+- name: VividCortex 
+  url: https://www.vividcortex.com
+  img: /static/assets/img/landing/vivid.png
