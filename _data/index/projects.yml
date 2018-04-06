@@ -6,6 +6,12 @@
   desc: masconmdz@gmail.com
 
 
-# - name: Google
-#   url: https://google.com
-#   img: /static/assets/img/landing/google.png
+- name: Universidad Mendoza 
+  name2: Dirección de Posgrados|Facultad de Ingeniería
+  url: http://www.um.edu.ar/es/
+  img: /static/assets/img/landing/universidad_mendoza.jpg
+
+
+- name: Mercado Libre
+  url: https://www.mercadolibre.com.ar/
+  img: /static/assets/img/landing/mercadolibre.png
