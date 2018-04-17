@@ -19,3 +19,7 @@
 - name: VividCortex 
   url: https://www.vividcortex.com
   img: /static/assets/img/landing/vivid.jpeg
+
+- name: R1 
+  url: http://r1group.co/R1Group
+  img: /static/assets/img/landing/r1.png
