@@ -1,10 +1,10 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: +Con light
-description: +Con light
-keywords: +Con,Mascon,conference,light,workshops
-baseurl:  /argentina2018-light # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+title: +Con Online
+description: +Con Online
+keywords: +Con,Mascon,conference
+baseurl:  /mascon-online # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://mas-con.github.io/  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
 img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
@@ -13,7 +13,7 @@ img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/asset
 author:  # change following line to your infomation.
   name: Mascon  # Be used at blog posts' author.
   first_name: Mascon  # Be used at index page about me section.
-  last_name: Light  # Be used at index page about me section.
+  last_name: Online  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: mas-con  # Leave blank if you don't have now
   # linkedin_id: jarrekk # Leave blank if you don't have now
@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: 
     - name: 
-  desc: +Con light es un dia de talleres.  # Describe yourself.
+  desc: +Con Online  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.

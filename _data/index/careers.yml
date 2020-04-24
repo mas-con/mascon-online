@@ -1,29 +1,14 @@
 
 
 - name:
-    detail: Inscripciones 
-    i18n: company_a
+    detail: Call4papers 
   desc:
-    detail: +Con light -  Inscripciones
-    i18n: company_a_desc
-  date:
-    detail: 20/02 - 15/04
-    i18n: 
-  job:
-    detail: <a href="https://www.eventbrite.com.ar/e/con-light-tickets-39291225112"> >>> INSCRIPCIONES <<< </a>
-    i18n: 
-  icon: fa-plus-square
+    detail: Aplicar para una charla!
+    link: https://forms.gle/fJDsDzf8tVvggXyE8
 
 - name:
-    detail: ENTRADA
-    i18n: company_a
+    detail: Inscripciones 
   desc:
-    detail: 1kg alimento no perecedero o 1.5lts agua o 1 paquete pañales
-    i18n: company_a_desc
-  date:
-    detail: 
-    i18n: 
-  job:
-    detail: 
-    i18n: 
-  icon: fa-plus-square
+    detail: +Con  -  Inscripciones
+    link: https://google.com
+

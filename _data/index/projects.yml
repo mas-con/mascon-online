@@ -1,25 +1,25 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Sea nuestro patrocinador
-  img: /static/assets/img/landing/avatar.png
+- name: ¿Quieres ser nuestro patrocinador y ayudarnos con donaciones?
+  img: /static/assets/img/landing/mendoza.png
   desc: masconmdz@gmail.com
 
 
-- name: Universidad Mendoza 
-  name2: Dirección de Posgrados|Facultad de Ingeniería
-  url: http://www.um.edu.ar/es/
-  img: /static/assets/img/landing/universidad_mendoza.jpg
+# - name: Universidad Mendoza 
+#   name2: Dirección de Posgrados|Facultad de Ingeniería
+#   url: http://www.um.edu.ar/es/
+#   img: /static/assets/img/landing/universidad_mendoza.jpg
 
 
-- name: Mercado Libre
-  url: https://www.mercadolibre.com.ar/
-  img: /static/assets/img/landing/mercadolibre.png
+# - name: Mercado Libre
+#   url: https://www.mercadolibre.com.ar/
+#   img: /static/assets/img/landing/mercadolibre.png
 
-- name: VividCortex 
-  url: https://www.vividcortex.com
-  img: /static/assets/img/landing/vivid.jpeg
+# - name: VividCortex 
+#   url: https://www.vividcortex.com
+#   img: /static/assets/img/landing/vivid.jpeg
 
-- name: R1 
-  url: http://r1group.co/R1Group
-  img: /static/assets/img/landing/r1.png
+# - name: R1 
+#   url: http://r1group.co/R1Group
+#   img: /static/assets/img/landing/r1.png
