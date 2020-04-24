@@ -14,7 +14,7 @@ author:  # change following line to your infomation.
   name: Mascon  # Be used at blog posts' author.
   first_name: Mascon  # Be used at index page about me section.
   last_name: Online  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/mendoza.png  # upload your avatar at directory and edit it.
   github_username: mas-con  # Leave blank if you don't have now
   # linkedin_id: jarrekk # Leave blank if you don't have now
   facebook_username: masconmdz  # Leave blank if you don't have now
