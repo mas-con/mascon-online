@@ -2,9 +2,10 @@
     <div class="row">
         <div class="col-lg-12 text-center">
             <div class="navy-line"></div>
-            <h1><span data-i18n="career.my_career">Call4papers | Inscripciones</span></h1>
+            <h1><span data-i18n="career.my_career">Agenda</span></h1>
         </div>
     </div>
+
     <div class="row features-block">
         <div class="col-lg-12">
             <div id="vertical-timeline" class="vertical-container light-timeline center-orientation">
@@ -15,11 +16,29 @@
                         <i class="fa {{ career.icon }}"></i>
                     </div>
                     <div class="vertical-timeline-content wow {% if loopindex == 1 %} rotateInUpRight {% else %} rotateInUpLeft {% endif %}">
-                        <h2><span data-i18n="career.{{ career.name.i18n }}">{{ career.name.detail }}</span></h2>
-                        <p> <a href="{{ career.desc.link }}">
-                            <span data-i18n="career.{{ career.desc.i18n }}">{{ career.desc.detail }} </span> </a>
-                        </p>
+                        <span data-i18n="career.{{ career.desc.i18n }}">{{ career.desc.detail }} </span> 
+                        <h2><span data-i18n="career.{{ career.name.i18n }}">{{ career.name.charla }}</span></h2>
+                        <p> {{ career.desc.orador }}</p>
+
+                        <ul class="list-inline social-icon">
+                            {% if career.desc.github_username %}
+                            <li><a href="https://github.com/{{ career.desc.github_username }}" target="blank"><i class="fa fa-github"></i></a></li>
+                            {% endif %}
+                            {% if career.desc.linkedin_id %}
+                            <li><a href="https://www.linkedin.com/in/{{ career.desc.linkedin_id }}" target="blank"><i class="fa fa-linkedin"></i></a></li>
+                            {% endif %}
+                            {% if career.desc.twitter_username %}
+                            <li><a href="https://twitter.com/{{ career.desc.twitter_username }}" target="blank"><i class="fa fa-twitter"></i></a></li>
+                            {% endif %}
+                            {% if career.desc.link %}
+                            <li><a href="https://{{ career.desc.link }}" target="blank"><i class="fa fa-link"></i></a></li>
+                            {% endif %}
+                        </ul>
+    
+
                     </div>
+
+    
                 </div>
             {% endfor %}
             </div>

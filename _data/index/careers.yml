@@ -1,8 +1,72 @@
 
+- name:
+    charla: Intro
+  desc:
+    detail: 17:00 - 17:10	
+    orador:
 
 - name:
-    detail: Inscripciones 
+    charla: Charla 1
   desc:
-    detail: +Con  -  Inscripciones
-    link: https://mascon-online.eventbrite.com.ar
+    detail: 17:20 - 17:50	
+    orador: Orador
+    github_username: bla
+    linkedin_id: bla
+    twitter_username: bla
+    link: bla.com
 
+- name:
+    charla: Charla 2
+  desc:
+    detail: 17:50	- 18:20	
+    orador: Orador
+    github_username: bla
+    linkedin_id: bla
+    twitter_username: bla
+    link: bla.com
+
+- name:
+    charla: Charla 3
+  desc:
+    detail: 18:20 -	18:50	
+    orador: Orador
+    github_username: bla
+    linkedin_id: bla
+    twitter_username: bla
+    link: bla.com
+
+- name:
+    charla: break
+  desc:
+    detail: 18:50	19:10	
+    orador: Una pausa para un café!
+
+- name:
+    charla: Charla 4
+  desc:
+    detail: 19:10	19:40	
+    orador: Orador
+    github_username: bla
+    linkedin_id: bla
+    twitter_username: bla
+    link: bla.com
+
+- name:
+    charla: Charla 5
+  desc:
+    detail: 19:40	20:10	
+    orador: Orador
+    github_username: bla
+    linkedin_id: bla
+    twitter_username: bla
+    link: bla.com
+
+- name:
+    charla: Charla 6
+  desc:
+    detail: 20:10	20:40		
+    orador: Orador
+    github_username: bla
+    linkedin_id: bla
+    twitter_username: bla
+    link: bla.com 

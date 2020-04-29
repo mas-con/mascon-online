@@ -8,13 +8,13 @@
 
 - id: career
   i18n: nav.career
-  name: Info
+  name: Agenda
   tpl: career.html
   css: timeline
 
 - id: skills
   i18n: nav.skills
-  name: Agenda
+  name: Info
   tpl: skills.html
   css: team
 
